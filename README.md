@@ -62,6 +62,7 @@ Tambahkan element div lainnya seteleah div3 seperti berikut.
 </section>
 ```
 Kemudian atur property clear pada CSS, seperti berikut.
+
 ```
 .div4 {
   background-color: blue;
@@ -192,6 +193,7 @@ Kemudian lihat hasilnya.
 
 # Membuat Hero Panel.
 Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
+
 ```
 HTML
 <section id="hero">
@@ -217,6 +219,7 @@ font-size: 35px;
 margin-bottom: 20px;
 font-size: 18px;
 line-height:
+```
 
 ![Membuat Hero Panel](https://user-images.githubusercontent.com/56244029/115819630-6c265d00-a429-11eb-8c3a-20942fe5cc00.png)
 
